@@ -1,0 +1,1 @@
+import{a as e,o as t}from"./index-DhueVE4X.js";var n=t(),r=()=>(0,n.jsxs)(`main`,{className:`wrap missing-service`,children:[(0,n.jsx)(`h1`,{children:`Službu jsme nenašli.`}),(0,n.jsx)(e,{to:`/`,children:`Zpět na úvod`})]});export{r as notFoundComponent};
